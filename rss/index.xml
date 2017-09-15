@@ -1,12 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xvin3t Blog]]></title><description><![CDATA[We will see !]]></description><link>https://xvin3t.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 15 Sep 2017 07:36:00 GMT</lastBuildDate><atom:link href="https://xvin3t.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Useful links]]></title><description><![CDATA[<div class="sect1">
-<h2 id="_npm_packages">NPM Packages</h2>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[xvin3t Blog]]></title><description><![CDATA[We will see !]]></description><link>https://xvin3t.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 15 Sep 2017 07:39:21 GMT</lastBuildDate><atom:link href="https://xvin3t.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Useful links]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
-<p><a href="https://www.npmjs.com/package/nativefier">Nativefier: convert an url into electron desktop app</a></p>
+<p>A list of useful apps, packages, articles for reference.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_npm_packages">NPM Packages</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_nativefier">Nativefier</h3>
+<div class="paragraph">
+<p>Convert an url into electron desktop app: <a href="https://www.npmjs.com/package/nativefier">Link</a></p>
 </div>
 <div class="listingblock">
 <div class="content">
 <pre class="highlight"><code>nativefier --name "Medium" "http://medium.com"</code></pre>
+</div>
 </div>
 </div>
 </div>
