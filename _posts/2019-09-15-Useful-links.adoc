@@ -1,0 +1,8 @@
+= Useful links
+// :hp-image: /covers/cover.png
+:published_at: 2019-09-15
+:hp-tags: links,apps,useful,
+
+## NPM Packages
+* https://www.npmjs.com/package/nativefier[Nativefier: convert an url into electron desktop app]
+
