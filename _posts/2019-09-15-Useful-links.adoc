@@ -3,8 +3,11 @@
 :published_at: 2019-09-15
 :hp-tags: links,apps,useful,
 
+A list of useful apps, packages, articles for reference.
+
 ## NPM Packages
-https://www.npmjs.com/package/nativefier[Nativefier: convert an url into electron desktop app]
+### Nativefier
+Convert an url into electron desktop app: https://www.npmjs.com/package/nativefier[Link]
 ```
 nativefier --name "Medium" "http://medium.com"
 ```
